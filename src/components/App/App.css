@@ -1,0 +1,28 @@
+.app {
+  height: 100vh;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  background-image: url("../../Assets/holiday.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.secret {
+  height: 100vh;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+

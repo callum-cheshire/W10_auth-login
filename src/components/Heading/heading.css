@@ -1,0 +1,12 @@
+.loggedIn {
+    color: rgb(8, 146, 72);
+    font-family: monospace;
+    font-size: 90px;
+    padding: 20px;
+}
+
+.loggedOut {
+    color: rgb(61, 0, 227);
+    font-size: 90px;
+    padding: 20px;
+}

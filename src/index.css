@@ -1,0 +1,24 @@
+html, body {
+  margin: 0px;
+  padding:0px;
+  top: 0;
+  
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-container {
+  border: 1px solid black;
+  color: green;
+}
